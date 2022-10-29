@@ -6,7 +6,7 @@ TF-IDF ve Cosine Similarity kullanarak seçilen bir filme göre benzer filmlerin
 
 <br/>
 
-#GELİŞTİRMELER
+# GELİŞTİRMELER
 
 <br/>
 
@@ -69,9 +69,9 @@ try catch yapısı kullanarak catch kısmına düşüldüğünde idf değerini 0
 ```
 <br/>
 
-##ÖZET
+## ÖZET
 
 <br/>
 
-**Bu geliştirmeleri yaptıktan sonra eski ve yeni algoritmaya aynı filmleri göndererek iki algoritma arasındaki farkı ölçmeye çalıştım. Yapmış olduğum testlerde yeni algoritmanın eski algoritmaya göre daha iyi sonuçlar verdiğini gözlemledim. Geliştirilmiş algoritmanın kötü yanıysa eski algoritmaya göre biraz daha yavaş çalışmasıydı. Bunun en büyük sebebi de iç içe for döngüsü kullanarak her filmdeki kelimeleri saydırmamdı. **
+**Bu geliştirmeleri yaptıktan sonra eski ve yeni algoritmaya aynı filmleri göndererek iki algoritma arasındaki farkı ölçmeye çalıştım. Yapmış olduğum testlerde yeni algoritmanın eski algoritmaya göre daha iyi sonuçlar verdiğini gözlemledim. Geliştirilmiş algoritmanın kötü yanıysa eski algoritmaya göre biraz daha yavaş çalışmasıydı. Bunun en büyük sebebi de iç içe for döngüsü kullanarak her filmdeki kelimeleri saydırmamdı.**
 

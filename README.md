@@ -83,6 +83,10 @@ try catch yapısı kullanarak catch kısmına düşüldüğünde idf değerini 0
 
 Ali Kundilli filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki 4. ve 5. filmin  , eski algoritmadaki 4. ve 5. filme göre daha iyi bir öneri olduğunu söyleyebiliriz. Eski algoritmada 4. 5. film için yapılan öneriler "Dram" türündeyken, gelişmiş algoritmada Ali Kundilli gibi "Komedi"  türünde filmler önerilmiştir.
 
+<br/>
+
+![eski_1](https://user-images.githubusercontent.com/77435563/198852219-e7f83514-7259-4ee9-bff5-683ffd3b1ed1.jpg)
+
 
 <br/>
 

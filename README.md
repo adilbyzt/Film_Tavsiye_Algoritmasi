@@ -105,9 +105,28 @@ Ali Kundilli filmi için gelişmiş ve eski algoritma arasındaki farka baktığ
 
 <br/>
 
-7. Koğuştaki Mucize filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki 3, 4 ve  5. filmin, eski algoritmadaki 3, 4 ve 5. filme göre daha iyi öneri olduğunu söyleyebiliriz. 7. Koğuştaki Mucize filminin kavuşmak ile alakalı olduğunu düşünürsek yeni algoritmadaki sonuçların kavuşmak temasına daha yakın olduğu görülüyor.
+ 7. Koğuştaki Mucize filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki 3, 4 ve  5. filmin, eski algoritmadaki 3, 4 ve 5. filme göre daha iyi öneri olduğunu söyleyebiliriz. 7. Koğuştaki Mucize filminin kavuşmak ile alakalı olduğunu düşünürsek yeni algoritmadaki sonuçların kavuşmak temasına daha yakın olduğu görülüyor.
 
 <br/>
+
+### Eski Algoritma
+
+<br/>
+
+![eski_2](https://user-images.githubusercontent.com/77435563/198852364-aa297953-99dc-4a6a-99b8-18dd5402154b.jpg)
+
+<br/>
+
+### Geliştirilmiş Algoritma
+
+<br/>
+
+![gelistirilmiş_2](https://user-images.githubusercontent.com/77435563/198852380-4f8a680b-55df-48b1-a561-40cad0e8d631.jpg)
+
+<br/>
+
+
+
 
 ## TEST3
 
@@ -116,4 +135,21 @@ Ali Kundilli filmi için gelişmiş ve eski algoritma arasındaki farka baktığ
 Hızlı ve Öfkeli filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki bütün sonuçların aynı filmin diğer serileri olduğu gözükürken, Eski algoritma bu filmin serilerinin tamamını bulamamıştır.
 
 <br/>
+
+### Eski Algoritma
+
+<br/>
+
+![eski_3](https://user-images.githubusercontent.com/77435563/198852391-60043091-d860-4442-8179-7cecc86a9ddd.jpg)
+
+<br/>
+
+### Geliştirilmiş Algoritma
+
+<br/>
+
+![gelistirilmiş_3](https://user-images.githubusercontent.com/77435563/198852403-5e034f88-b282-4b3e-8d95-9d07b1ec5203.jpg)
+
+<br/>
+
 

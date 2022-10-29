@@ -75,3 +75,30 @@ try catch yapısı kullanarak catch kısmına düşüldüğünde idf değerini 0
 
 **Bu geliştirmeleri yaptıktan sonra eski ve yeni algoritmaya aynı filmleri göndererek iki algoritma arasındaki farkı ölçmeye çalıştım. Yapmış olduğum testlerde yeni algoritmanın eski algoritmaya göre daha iyi sonuçlar verdiğini gözlemledim. Geliştirilmiş algoritmanın kötü yanıysa eski algoritmaya göre biraz daha yavaş çalışmasıydı. Bunun en büyük sebebi de iç içe for döngüsü kullanarak her filmdeki kelimeleri saydırmamdı.**
 
+<br/>
+
+## TEST 1
+
+<br/>
+
+Ali Kundilli filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki 4. ve 5. filmin  , eski algoritmadaki 4. ve 5. filme göre daha iyi bir öneri olduğunu söyleyebiliriz. Eski algoritmada 4. 5. film için yapılan öneriler "Dram" türündeyken, gelişmiş algoritmada Ali Kundilli gibi "Komedi"  türünde filmler önerilmiştir.
+
+
+<br/>
+
+## TEST 2
+
+<br/>
+
+7. Koğuştaki Mucize filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki 3, 4 ve  5. filmin, eski algoritmadaki 3, 4 ve 5. filme göre daha iyi öneri olduğunu söyleyebiliriz. 7. Koğuştaki Mucize filminin kavuşmak ile alakalı olduğunu düşünürsek yeni algoritmadaki sonuçların kavuşmak temasına daha yakın olduğu görülüyor.
+
+<br/>
+
+## TEST3
+
+<br/>
+
+Hızlı ve Öfkeli filmi için gelişmiş ve eski algoritma arasındaki farka baktığımızda gelişmiş algoritmadaki bütün sonuçların aynı filmin diğer serileri olduğu gözükürken, Eski algoritma bu filmin serilerinin tamamını bulamamıştır.
+
+<br/>
+

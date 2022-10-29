@@ -11,9 +11,10 @@ TF-IDF ve Cosine Similarity kullanarak seçilen bir filme göre benzer filmlerin
 <br/>
 
 ```
-İlk iyileştirme olarak, datasetimizdeki filmlerin clean kısmındaki kelimelerimizin büyük ve küçük harfler içerdiğini tespit ettim. 
-Bu durum algoritmada 2 kelime aynı kelime olsa bile birisi büyük harfle başladığı için farklılığa sebep olabileceğinden dolayı 
-bütün kelimeleri küçük harfe çevirerek daha doğru bir sonuç elde etmeye çalıştım.
+İlk iyileştirme olarak, datasetimizdeki filmlerin clean kısmındaki kelimelerimizin büyük ve küçük harfler 
+içerdiğini tespit ettim. Bu durum algoritmada 2 kelime aynı kelime olsa bile birisi büyük harfle başladığı 
+için farklılığa sebep olabileceğinden dolayı bütün kelimeleri küçük harfe çevirerek daha doğru bir sonuç 
+elde etmeye çalıştım.
 ```
 
 <br/>
